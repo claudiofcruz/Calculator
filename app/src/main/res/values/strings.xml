@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="num1">Number 1</string>
+    <string name="num2">Number 2</string>
+    <string name="btnCalc">Calc</string>
+    <string name="result">Result</string>
+    <string name="resultMessage">Sum is: </string>
+    <string name="messageError">Invalid number.</string>
+</resources>
